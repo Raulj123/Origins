@@ -3,6 +3,6 @@
 - React Native  😱
 ## Features 
 - [ ] Calendar
-- [ ] Players Run Drive Route
+- [ ] Players Run Route
 - [ ] Merch (buy on the app? @brenda)
 - [ ] Personal Files
